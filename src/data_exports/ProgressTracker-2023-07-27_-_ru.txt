@@ -1,0 +1,91 @@
+**Обновление трекера прогресса | 27 July 2023**
+<https://robertsspaceindustries.com/roadmap/progress-tracker>
+<https://shinytracker.app/>
+
+**Добавленные задачи**
+:SCN1: Arena Commander: Experimental Game Modes [1 Dev] :SC: 
+:SCN1: Arena Commander: Frontend Update [2 Devs] :SC: 
+:SCN1: Arena Commander: New Racetracks [1 Dev] :SC: 
+:SCN1: New Missions - Cargo Hauling [3 Devs] :SC: 
+:SCN1: New Missions - Restoration Contracts [2 Devs] :SC: 
+:SCN1: New Missions - Steal/Recover Cargo [2 Devs] :SC: 
+:SCN1: Reputation - Hostility [1 Dev] :SC: 
+:SCN1: Reputation - Sandbox Triggers [1 Dev] :SC: 
+:SCN1: Reputation - Shop Discounts [1 Dev] :SC: 
+
+**Обновленные задачи**
+:SCN4: Пераработка системы AR и маркеров на карте [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Argo SRV [Дедлайн отложен, Кол. задач выросло] :SC: 
+:SCN4: Исправление багов и технический долг [Кол. задач выросло] :SC: :SQ: 
+:SCN4: Глава 02 [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Глава 05 [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Глава 07 [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Глава 12 [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Глава 17 [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Глава 20 [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Глава 26 [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Работа над персонажами [Дедлайн отложен, Кол. задач выросло] :SQ: 
+:SCN4: Плагин свойств сущностей [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Пожарная опасность [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Gen12 - Renderer T1 [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: HEX [Дедлайн отложен, Кол. задач выросло] :SC: 
+:SCN4: Переработка карты и радарной системы [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Различная поддержка [Кол. задач выросло] :SC: :SQ: 
+:SCN4: Переработка mobiGlas [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: New Missions - Data Heist [Дедлайн отложен, Кол. задач выросло] :SC: 
+:SCN4: New Player Experience [Кол. задач выросло] :SC: 
+:SCN4: Persistent Streaming и Server Meshing [Дедлайн отложен, Кол. задач выросло] :SC: 
+:SCN4: Физический урон и разрушаемость [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Физика - симуляция канатов [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Опыт взаимодействия с игроком T2 - HUD визора и шлема [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Космические станции в Pyro [Кол. задач выросло] :SC: 
+:SCN4: Система Pyro, планеты и настройка миссий [Кол. задач выросло] :SC: 
+:SCN4: RaStar [Дедлайн отложен, Кол. задач выросло] :SC: 
+:SCN4: SQ42 - поддержка транспорта [Кол. задач выросло] :SQ: 
+:SCN4: TestRunner Improvements [Дедлайн отложен, Кол. задач выросло] :SC: :SQ: 
+:SCN4: Необъявленный транспорт [Кол. задач выросло] :SC: 
+:SCN4: Необъявленный транспорт [Кол. задач выросло] :SC: 
+:SCN4: Подземные сооружения [Кол. задач выросло] :SC: 
+:SCN4: Vehicle Tractor Beams [Дедлайн отложен, Кол. задач выросло] :SC: 
+
+**Текущие спринты**
+:SCN5: Additional Derelict Settlements [8 Active Devs:nochange:] :SC: 
+:SCN5: Aopoa San'tok.yāi [5 Active Devs:nochange:] :SC: 
+:SCN5: Пераработка системы AR и маркеров на карте [3 Active Devs:increase:] :SC: :SQ: 
+:SCN5: Artificial Gravity [1 Active Dev:nochange:] :SC: 
+:SCN5: Охотник за головами V2 [5 Active Devs:nochange:] :SC: 
+:SCN5: Исправление багов и технический долг [25 Active Devs:increase:] :SC: :SQ: 
+:SCN5: Интерьеры зданий [18 Active Devs:nochange:] :SC: 
+:SCN5: Глава 21 [1 Active Dev:nochange:] :SQ: 
+:SCN5: Глава 26 [2 Active Devs:increase:] :SQ: 
+:SCN5: Работа над персонажами [29 Active Devs:increase:] :SQ: 
+:SCN5: Плагин свойств сущностей [1 Active Dev:increase:] :SC: :SQ: 
+:SCN5: Freight Elevators [5 Active Devs:nochange:] :SC: 
+:SCN5: Gen12 - Renderer T1 [20 Active Devs:increase:] :SC: :SQ: 
+:SCN5: HEX [5 Active Devs:increase:] :SC: 
+:SCN5: Жизнеобеспечение T0 [1 Active Dev:nochange:] :SC: 
+:SCN5: Переработка карты и радарной системы [2 Active Devs:increase:] :SC: :SQ: 
+:SCN5: Переработка многофункциональных дисплеев корабля [8 Active Devs:nochange:] :SC: :SQ: 
+:SCN5: Различная поддержка [5 Active Devs:increase:] :SC: :SQ: 
+:SCN5: Приложение "Менеджер миссий" [2 Active Devs:nochange:] :SC: 
+:SCN5: Переработка mobiGlas [1 Active Dev:increase:] :SC: :SQ: 
+:SCN5: New Player Experience [1 Active Dev:nochange:] :SC: 
+:SCN5: Origin X1 [5 Active Devs:nochange:] :SC: 
+:SCN5: Outpost Homestead - Независимый и вне закона [16 Active Devs:nochange:] :SC: 
+:SCN5: Persistent Streaming и Server Meshing [24 Active Devs:increase:] :SC: 
+:SCN5: Физический урон и разрушаемость [3 Active Devs:increase:] :SC: :SQ: 
+:SCN5: Физика - симуляция канатов [1 Active Dev:increase:] :SC: :SQ: 
+:SCN5: Космические станции в Pyro [17 Active Devs:nochange:] :SC: 
+:SCN5: Система Pyro, планеты и настройка миссий [8 Active Devs:increase:] :SC: 
+:SCN5: RaStar [4 Active Devs:increase:] :SC: 
+:SCN5: Управление ресурсами [12 Active Devs:nochange:] :SC: 
+:SCN5: RSI Polaris [7 Active Devs:increase:] :SC: :SQ: 
+:SCN5: Salvage - Vehicle Munching [2 Active Devs:nochange:] :SC: 
+:SCN5: SQ42 - поддержка транспорта [27 Active Devs:increase:] :SQ: 
+:SCN5: TestRunner Improvements [4 Active Devs:increase:] :SC: :SQ: 
+:SCN5: Tumbril Storm [3 Active Devs:nochange:] :SC: 
+:SCN5: Необъявленный транспорт [2 Active Devs:increase:] :SC: 
+:SCN5: Необъявленный транспорт [5 Active Devs:increase:] :SC: 
+:SCN5: Необъявленный транспорт [2 Active Devs:increase:] :SC: 
+:SCN5: Подземные сооружения [15 Active Devs:increase:] :SC: 
+:SCN5: Vehicle Tractor Beams [1 Active Dev:increase:] :SC: 
